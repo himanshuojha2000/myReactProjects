@@ -1,0 +1,4 @@
+[submodule "P1-Counter/counter"]
+    path = P1-Counter/counter
+    url = https://github.com/himanshuojha2000/myReactProjects/tree/main/P1-Counter
+
